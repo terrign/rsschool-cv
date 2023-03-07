@@ -24,7 +24,7 @@ Spoken languages: Belarusian (native), Russian (native), English (B2)
 
 ## Education
 
-Name of the Education Establishment: Gymnasium №14 of Minsk 
+Name of the Education Establishment: Gymnasium №14 of Minsk
 
 Graduation Year: 2015
 
