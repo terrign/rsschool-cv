@@ -24,7 +24,14 @@ Spoken languages: Belarusian (native), Russian (native), English (B2)
 
 ## Education
 
+Name of the Education Establishment: Gymnasium №14 of Minsk 
+
 Graduation Year: 2015
-Name of the Education Establishment: State Educational Institution Gymnasium №14 of Minsk
 
 Degree (diploma): Certificate of Secondary Education
+
+## Courses
+
+[JS/FE Pre-School 2022Q2](https://rs.school/js-stage0/)
+
+[freeCodeCamp Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)]
