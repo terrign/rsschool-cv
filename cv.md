@@ -34,4 +34,4 @@ Degree (diploma): Certificate of Secondary Education
 
 [JS/FE Pre-School 2022Q2](https://rs.school/js-stage0/)
 
-[freeCodeCamp Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)]
+[freeCodeCamp Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
